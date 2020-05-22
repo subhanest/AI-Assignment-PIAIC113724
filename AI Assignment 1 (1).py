@@ -136,7 +136,7 @@ avg_malescore_writing = (malescore_writing/482)
 if avg_femalescore > avg_malescore:
     print("");
     print("");
-    print("Famles overall performance is better than Males")
+    print("Females overall performance is better than Males")
     print("");
     print("");
 elif avg_femalesscore < avg_malesscore:
@@ -154,7 +154,7 @@ else:
 if avg_femalescore_maths > avg_malescore_maths:
     print("");
     print("");
-    print("Famles performance is better than Males in maths")
+    print("Females performance is better than Males in maths")
     print("");
     print("");
 elif avg_femalescore_maths < avg_malescore_maths:
@@ -172,7 +172,7 @@ else:
 if avg_femalescore_reading > avg_malescore_reading:
     print("");
     print("");
-    print("Famles performance is better than Males in reading")
+    print("Females performance is better than Males in reading")
     print("");
     print("");
 elif avg_femalesscore_reading < avg_malesscore_reading:
@@ -190,7 +190,7 @@ else:
 if avg_femalescore_writing > avg_malescore_writing:
     print("");
     print("");
-    print("Famles performance is better than Males in writing")
+    print("Females performance is better than Males in writing")
     print("");
     print("");
 elif avg_femalesscore_writing < avg_malesscore_writing:
