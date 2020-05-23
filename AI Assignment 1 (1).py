@@ -527,16 +527,17 @@ def studentgoodatreadingbadatwriting():
 
 # Foroverall: malevsfemaleoverall() 
 
-# Question1: scorerwithmasterparent(cours)
+# Question1: scorerwithmasterparent("course")
 
-# Question2: scorerwithbachelorparent(cours)
+# Question2: scorerwithbachelorparent("course")
 
 # Question3: bacmascolparentnumber()
 
-# Question4: topscorer(cours)
+# Question4: topscorer("course")
 
 # Question5: studentgoodatreadingbadatwriting()
 
+# Note : Course should be entered in string form (""). 
 
 
 
