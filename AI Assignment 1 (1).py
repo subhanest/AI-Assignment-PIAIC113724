@@ -538,7 +538,7 @@ def studentgoodatreadingbadatwriting():
 # Question5: studentgoodatreadingbadatwriting()
 
 # Note : Course should be entered in string form (""). 
-
+# Warning : Change the path variable to upload CSV file according to file location on your computer !
 
 
 
